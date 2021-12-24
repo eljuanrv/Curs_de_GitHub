@@ -21,3 +21,4 @@ Utilizando Git Bash en Windows
 5. Para conocer el estatus de un repositorio ingresas ``` $ git status ```
 6. Para añadir una archivo a nuestro repositorio primero lo movemos a la carpeta creada y despues ponemos el comando ``` $ git add . ``` el cual agregara todos los archivos que tengamos en la carpeta y no se han agregado al repositorio
 7. Para incluir la versión del archivo en el repositorio usamos ``` $ git commit -m "MENSAJE"``` -m se utiliza para añadir un mensaje para comprendel las modificaciones 
+8. Cuando eliminas un archivo se usa nuevamnte el ``` $ git add . ``` para cambiar su nevo status
