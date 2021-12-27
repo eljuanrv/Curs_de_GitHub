@@ -22,3 +22,11 @@ Utilizando Git Bash en Windows
 6. Para añadir una archivo a nuestro repositorio primero lo movemos a la carpeta creada y despues ponemos el comando ``` $ git add . ``` el cual agregara todos los archivos que tengamos en la carpeta y no se han agregado al repositorio
 7. Para incluir la versión del archivo en el repositorio usamos ``` $ git commit -m "MENSAJE"``` -m se utiliza para añadir un mensaje para comprendel las modificaciones 
 8. Cuando eliminas un archivo se usa nuevamnte el ``` $ git add . ``` para cambiar su nevo status
+
+## Enviar Repo Local a GitHub
+1. Abrimos Git Bash y apuntamos a la carpeta que tiene nuetro repositorio
+2. Nos aseguramos que todos los archivos esten guardados correctamente
+3. Ponemos el comando ``` git remote add origin ``` seguido de la URL de nuestro repositorio *.git*
+4. Y listo ahora ese repositorio remoto se encuentra relacionado con nuesrto proyecto (los archivos no se encuentran en la nube pero ya podemos enviarlos)
+5. Para enviar los archivos usamos ``` git push -u origin master ``` 
+
