@@ -30,3 +30,16 @@ Utilizando Git Bash en Windows
 4. Y listo ahora ese repositorio remoto se encuentra relacionado con nuesrto proyecto (los archivos no se encuentran en la nube pero ya podemos enviarlos)
 5. Para enviar los archivos usamos ``` git push -u origin master ``` 
 
+## Utilizar Cliente de GitHub
+
+Es para un ambiente grafico más intuitivo
+1. Descargar GitHub Desktop desde [Here](https://desktop.github.com/)
+
+Tenemos 3 comandos basicos
+1. Clonar: es para clonar un repo que se encuentre en GitHub, simplemente seleccionas el repo y le das clonar, despues eliges la ruta de almacenamiento y realizas algun cambio en la carpeta del repo local, despues reresal a GitHub desktop y haces el commit, y por ultimo haces el push to origin
+2. Crear: crear un repo a partir de archivos de tu equipo
+3. Agregar: aagregar algun repo que ya tenes en tu equipo
+
+Se puede conectar con GitHub
+
+
