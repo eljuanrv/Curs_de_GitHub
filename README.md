@@ -32,6 +32,8 @@ Utilizando Git Bash en Windows
 
 ## Utilizar Cliente de GitHub
 
+*Se puede conectar con GitHub*
+
 Es para un ambiente grafico más intuitivo
 1. Descargar GitHub Desktop desde [Here](https://desktop.github.com/)
 
@@ -40,7 +42,10 @@ Tenemos 3 comandos basicos
 2. Crear: crear un repo a partir de archivos de tu equipo, seleccionamos la opcion de nuevo repositorio, Ingresamos l nombre, la descripción y el readme y listo, despues seleccionamos publish para cargarlo a GitHub
 3. Agregar: aagregar algun repo que ya tenes en tu equipo
 4. Sincronizar Repositorios: Para sincronizar GitHub Deskton con GitHub antes de hacer cualquier cambio en Local debes de hacer click en *Fetch Origin* para asgurarte de que tienes la ultima version del archivo y si no es así hacemos *Pull* para descargarla
+5. Crear Branches, primero creamos una nueva rama, despues vamos y editamos algun archivo, y en el commit se puede observar que se va a hacer a la nueva rama, y por ultimo le damos en *Publish Branch* para subir la rama a GitHub 
+6. Fusionar Branches: Selecccionamos la rama principal, y ahí mismo seleccionamos la opcion *Choose a branch to merge into main* y despues damos click en *create a merge commit* y por ultimo damos click en *publish* para actualizar GitHub
+7. Delete branches: seleccionamos la branch y despues desplegamos las opciones de la pestaña *branch* y seleccionamos delete
 
-Se puede conectar con GitHub
+
 
 
