@@ -39,6 +39,7 @@ Tenemos 3 comandos basicos
 1. Clonar: es para clonar un repo que se encuentre en GitHub, simplemente seleccionas el repo y le das clonar, despues eliges la ruta de almacenamiento y realizas algun cambio en la carpeta del repo local, despues reresal a GitHub desktop y haces el commit, y por ultimo haces el push to origin
 2. Crear: crear un repo a partir de archivos de tu equipo, seleccionamos la opcion de nuevo repositorio, Ingresamos l nombre, la descripción y el readme y listo, despues seleccionamos publish para cargarlo a GitHub
 3. Agregar: aagregar algun repo que ya tenes en tu equipo
+4. Sincronizar Repositorios: Para sincronizar GitHub Deskton con GitHub antes de hacer cualquier cambio en Local debes de hacer click en *Fetch Origin* para asgurarte de que tienes la ultima version del archivo y si no es así hacemos *Pull* para descargarla
 
 Se puede conectar con GitHub
 
