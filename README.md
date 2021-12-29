@@ -45,6 +45,8 @@ Tenemos 3 comandos basicos
 5. Crear Branches, primero creamos una nueva rama, despues vamos y editamos algun archivo, y en el commit se puede observar que se va a hacer a la nueva rama, y por ultimo le damos en *Publish Branch* para subir la rama a GitHub 
 6. Fusionar Branches: Selecccionamos la rama principal, y ahí mismo seleccionamos la opcion *Choose a branch to merge into main* y despues damos click en *create a merge commit* y por ultimo damos click en *publish* para actualizar GitHub
 7. Delete branches: seleccionamos la branch y despues desplegamos las opciones de la pestaña *branch* y seleccionamos *delete* y podemos eliminar la branch tanto en local como en GitHub solo seleccionamos la opción
+8. Gestionar Conflictos: Cuando se realiza un comit en GitHub y al mismo tiempo uno en Desktop al tratar de hacer *Push* se genera un conflicto, esto se soluciona con el *Fetch* y siguiendo las instrucciones dependiendo de lo que desees hacer
+9. Gestionar Pull Requests: Primero creamos una nueva branch, la publicamos y hacemos algun commit, depues hacemos el push, despues nos aparece la opcion de hacer el *Pull Request* este es para abrir una discusión y gestionar los cambios realizados en la nueva rama damos click y nos manda a GitHub, despues damos click en pull requests 
 
 
 
