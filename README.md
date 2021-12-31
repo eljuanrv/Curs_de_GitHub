@@ -48,6 +48,15 @@ Tenemos 3 comandos basicos
 8. Gestionar Conflictos: Cuando se realiza un comit en GitHub y al mismo tiempo uno en Desktop al tratar de hacer *Push* se genera un conflicto, esto se soluciona con el *Fetch* y siguiendo las instrucciones dependiendo de lo que desees hacer
 9. Gestionar Pull Requests: Primero creamos una nueva branch, la publicamos y hacemos algun commit, depues hacemos el push, despues nos aparece la opcion de hacer el *Pull Request* este es para abrir una discusión y gestionar los cambios realizados en la nueva rama damos click y nos manda a GitHub, despues damos click en pull requests 
 
+## Source Tree
+- interactuar con todo
+- de una froma mas avanzada
+- para proctos complicados
+- [link de descarga aquí](https://www.sourcetreeapp.com/)
+- Aceder con GitHub
+- Y clonas tu primer repo
+- En la pestaña archivo puedes clonar, crear o abrir un rpositorio
+- La opcion recuperar se encarga de revisar y refrescar todos los repositorios remotos
 
 
 
